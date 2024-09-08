@@ -36,3 +36,22 @@ img
     top: 0;
 }
 
+.img1
+{
+    animation: animate 8s linear infinite;
+    filter: drop-shadow(0 0 10px rgba(255, 81, 153));
+}
+
+.img2
+{
+    animation: animate2 10s linear infinite;
+    filter: drop-shadow(0 0 5px rgba(255, 64, 172));
+    padding: 5%;
+}
+
+.img3
+{
+    animation: animate 15s linear infinite;
+    filter: drop-shadow(0 0 5px rgba(200, 117, 117));
+    padding: 10%;
+}
