@@ -6,5 +6,10 @@
 
 body
 {
-    background: linear-gradient(45deg, #38438b, #944b94, #d75a88, #ff7e71);
+    background: linear-gradient(45deg, #38438b, #944b94, #d75a88, #ff7e71, #ffb25f, #ffeb68);
+    background-repeat: no-repeat;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
