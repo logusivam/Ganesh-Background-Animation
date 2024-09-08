@@ -18,9 +18,23 @@ This project showcases a Ganesha image with chakra-like rotating backgrounds. Th
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ganesha-chakra-animation.git
+   git clone https://github.com/logusivam/Ganesha-Background-Animation.git
    ```
 
 2. **Navigate to the Project Directory**
    ```
-   cd ganesha-chakra-animation
+   cd Ganesha-Background-Animation
+   ```
+
+3. Open the `index.html` File: Open `index.html` in your browser to view the website.
+
+## 🎨 Customization
+- **Background Colors:** Change the background colors by modifying the CSS gradient.
+- **Ganesha Image:** Replace the Ganesha image with your preferred image by editing the image URL in the HTML.
+Chakra Rotation Speed: Adjust the rotation speed by modifying the CSS keyframes.
+
+## 🤝 Contributions
+Contributions are welcome! Feel free to enhance the design, add more animation layers, or customize the visual effects.
+
+## 📜 License
+This project is licensed under the MIT License. Please refer to the LICENSE file for details.
