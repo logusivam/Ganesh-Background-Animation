@@ -3,7 +3,7 @@
 This project showcases a Ganesha image with chakra-like rotating backgrounds. The background is set to a vibrant gradient or solid color, and the chakra structures rotate in both clockwise and counterclockwise directions with varying shadow effects, creating a spiritual and visually engaging effect.
 
 ## ✨ Features
-
+ 
 - **Ganesha Image**: Central focus on Lord Ganesha, with chakra-like backgrounds.
 - **Chakra Animation**: Three layers of rotating chakra-like circles, with clockwise and counterclockwise movements.
 - **3D Shadow Effect**: The shadow effect varies between each chakra, enhancing the visual depth of the animation.
