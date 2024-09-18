@@ -1,7 +1,7 @@
 # 🕉️ Ganesha Chakra Animation with Rotating Structures
 
 This project showcases a Ganesha image with chakra-like rotating backgrounds. The background is set to a vibrant gradient or solid color, and the chakra structures rotate in both clockwise and counterclockwise directions with varying shadow effects, creating a spiritual and visually engaging effect.
- 
+  
 ## ✨ Features
  
 - **Ganesha Image**: Central focus on Lord Ganesha, with chakra-like backgrounds.
